@@ -1,3 +1,4 @@
+![CLIP Cosine Similarity Matrix](./Cosine%20similarity%20matrix%20of%20cats.png)
 # 🐱 Project: Multimodal AI with OpenAI CLIP – Cat Image Understanding
 
 This project demonstrates the use of **OpenAI CLIP** (Contrastive Language–Image Pretraining) for **zero-shot classification** and multimodal alignment on a custom dataset of cat images. It explores how CLIP embeds images and text into a shared space and measures similarity using cosine distance.
